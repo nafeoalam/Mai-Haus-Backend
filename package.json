@@ -9,6 +9,7 @@
         "bcrypt": "^4.0.0",
         "body-parser": "1.15.1",
         "chai-http": "^4.3.0",
+        "chalk": "^4.1.0",
         "compression": "1.6.2",
         "cookie-parser": "1.4.3",
         "core-js": "2.4.1",
