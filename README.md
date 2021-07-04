@@ -1,3 +1,5 @@
+PostgreSQL + Nodejs
+
 1. Install Nodejs 12.16.1
 2. **npm install --global gulp-cli**
 3. Run Powershell as Admin & **Set-ExecutionPolicy Unrestricted**
